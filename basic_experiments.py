@@ -1,7 +1,7 @@
 
 '''
 Descript:	Script that tries basic classification algorithms
-			for topic recognition of news headlines in Albanian.
+for topic recognition of news headlines in Albanian.
 Author:		Erion Çano
 Language: 	Python 3.11
 '''
