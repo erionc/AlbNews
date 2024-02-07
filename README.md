@@ -24,7 +24,7 @@ title = {AlbNews: A Corpus of Headlines for Topic Modeling in Albanian}, \
 journal = {CoRR}, \
 volume = {abs/2402.04028}, \
 year = {2024}, \
-url = {http://arxiv.org/abs/2402.04028}, \
+url = {http://arxiv.org/abs/2402.04028 }, \
 archivePrefix = {arXiv}, \
 eprint = {2402.04028}, \
 }
